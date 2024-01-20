@@ -1,0 +1,17 @@
+h2{
+    color: blue;
+    font-size: 23px;
+    font-weight: bold;
+}
+h3{
+    color: green;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+div{
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    padding: 20px 30px;
+}
